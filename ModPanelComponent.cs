@@ -142,7 +142,7 @@ namespace AdjustableModPanel {
 
         // try any non-null callback in order
         var func = new Callback[] { button.onTrue, button.onHover, button.onLeftClick, button.onEnable, button.onFalse, button.onHoverOut, button.onDisable }
-          .Select(cb => cb.GetInvocationList().Skip(1).FirstOrDefault()).Where(m => m != null).FirstOrDefault(); var method = func.Method.Name;
+          .Select(cb => cb.GetInvocationList().Skip(1).FirstOrDefault()).Where(m => m != null).FirstOrDefault();
 
         // button with no callbacks. Ignore.
         if (func == null)
@@ -152,6 +152,7 @@ namespace AdjustableModPanel {
         if (module.EndsWith (".dll"))
           module = module.Substring (0, module.Length - 4);
 
+        var method = func.Method.Name;
         if (AdjustableModPanel.Instance.IsButtonToolbarController (button, out string name, out string id)) {
           // button created by ToolbarControl needs special treatment
           module = name;
