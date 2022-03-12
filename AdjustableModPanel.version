@@ -7,7 +7,7 @@
 	{
 		"USERNAME"	        : "zer0Kerbal",
 		"REPOSITORY"		: "AdjustableModPanel",
-		"ALLOW_PRE_RELEASE" : false
+		"ALLOW_PRE_RELEASE" : "false"
 	},
 	"VERSION" :
 	{
