@@ -251,10 +251,18 @@ labels:
 
 # Milestones: define milestones for Issues and Pull Requests
 milestones:
-  - title: 2.4.99.0-adoption
-    description: progress toward 2.4.99.0-adoption and release
+  - title: 1.5.99.0-adoption
+    description: progress toward 1.5.99.0-adoption and release
     state: open
 
   - title: Localization - Master
     description: progress toward total localization
+    state: open
+    
+  - title: Localization - Code
+    description: progress toward CODE localization (only for add-ons - plugins - etc)
+    state: open
+    
+  - title: Localization - English (United States) <en-us.cfg>
+    description: progress toward English (United States) <en-us.cfg> localization
     state: open
