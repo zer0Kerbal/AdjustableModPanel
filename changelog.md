@@ -1,5 +1,6 @@
 **Version 1.5.3**
 KSP 1.8
+* #3 - Minimal hint to prevent potential NRE - contributed by zer0Kerbal
 
 **Version 1.5.2**
 KSP 1.7
