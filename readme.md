@@ -140,10 +140,10 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:org:download]: https://github.com/radistmorse/KSPAdjustableModPanel/releases/latest/ "GitHub"  
 
 <!--- license provenance-->
-[LIC:org:url]: https://opensource.org/licenses/BSD-2-Clause "SimpleBSD-2-Clause"
+[LIC:org:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
 [LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json "SimpleBSD-2-Clause"
 
-[LIC:url]: https://opensource.org/licenses/BSD-2-Clause "SimpleBSD-2-Clause"
+[LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json "SimpleBSD-2-Clause"
 
 <!--- AVC -->
