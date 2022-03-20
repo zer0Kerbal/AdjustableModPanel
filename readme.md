@@ -1,8 +1,7 @@
 # Adjustable Mod Panel (KAMP)
 
-<<<<<<< Updated upstream
 Adjustable Mod Panel for Kerbal Space Program.
-=======
+
 Pick which mod buttons to show or hide on the stock toolbar.
 
 This plugin for Kerbal Space Program (KSP) allows you to pick which buttons on the stock toolbar you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the mods themselves, and should work with whichever mods it encounters.
