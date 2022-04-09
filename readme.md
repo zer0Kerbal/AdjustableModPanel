@@ -136,7 +136,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!--- mod provenance -->
 [MOD:org:source]: https://github.com/radistmorse/KSPAdjustableModPanel "GitHub"
-[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-* "KSP Forum"  
+[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/169087-* "KSP Forum"  
 [MOD:org:download]: https://github.com/radistmorse/KSPAdjustableModPanel/releases/latest/ "GitHub"  
 
 <!--- license provenance-->
