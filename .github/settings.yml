@@ -12,7 +12,7 @@ repository:
   name: AdjustableModPanel
 
   # A short description of the repository that will show up on GitHub
-  description: "This plugin for Kerbal Space Program (KSP) which allows you to pick which buttons on the stock toolbar you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the add-ons themselves, and should work with whichever add-ons it encounters."
+  description: "This plugin allows you to pick which buttons on the stock toolbar you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the add-ons themselves, and should work with whichever add-ons it encounters. For Kerbal Space Program (KSP)."
   
   # A URL with more information about the repository
   homepage: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*
