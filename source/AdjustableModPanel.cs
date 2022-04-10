@@ -33,6 +33,7 @@ using System.Linq;
 using UnityEngine;
 using KSP.UI.Screens;
 using System.Collections.Generic;
+using KSP.Localization;
 
 namespace AdjustableModPanel {
   [KSPAddon (KSPAddon.Startup.MainMenu, true)]
@@ -65,13 +66,29 @@ namespace AdjustableModPanel {
 
     private GameObject mainWindow = null;
 
-    private List< KeyValuePair <ApplicationLauncher.AppScenes, string> > appScenesNames = new List< KeyValuePair <ApplicationLauncher.AppScenes, string> >  () {
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.SPACECENTER, "KSC" ),
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> ((ApplicationLauncher.AppScenes.SPH | ApplicationLauncher.AppScenes.VAB), "SPH/VAB" ),
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.FLIGHT,  "FLT" ),
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.MAPVIEW, "MAP" ),
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.TRACKSTATION, "TRS" ),
-      new KeyValuePair<ApplicationLauncher.AppScenes, string> ( (ApplicationLauncher.AppScenes)63, "ALL" )
+
+        // #KAMP-010 = KSC // #autoLOC_300900 = KSC
+        // #KAMP-011 = SPH/VAB // #autoLOC_6002119 = SPH #autoLOC_6002108 = VAB
+        // #KAMP-012 = FLT // #autoLOC_900586 = Flight
+        // #KAMP-013 = MAP // #autoLOC_308130 = Map View
+        // #KAMP-014 = TRS // #autoLOC_6001648 = Tracking Station #autoLOC_6002222 = Tracking
+        // #KAMP-015 = ALL // #autoLOC_900712 = All
+
+        private List<KeyValuePair<ApplicationLauncher.AppScenes, string>> appScenesNames = new List<KeyValuePair<ApplicationLauncher.AppScenes, string>>() {
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.SPACECENTER, Localizer.Format("#autoLOC_300900")), // KSC
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> ((ApplicationLauncher.AppScenes.SPH | ApplicationLauncher.AppScenes.VAB), Localizer.Format("#autoLOC_6002119") + "/" + Localizer.Format("#autoLOC_6002108")), // "SPH/VAB"
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.FLIGHT, Localizer.Format("#autoLOC_900586")), // "FLT"
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.MAPVIEW, Localizer.Format("#autoLOC_308130")), // "MAP"
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.TRACKSTATION, Localizer.Format("#autoLOC_6002222")), // "TRS"
+      new KeyValuePair<ApplicationLauncher.AppScenes, string> ( (ApplicationLauncher.AppScenes)63, Localizer.Format("#autoLOC_900712")), // "ALL"
+
+    //private List< KeyValuePair <ApplicationLauncher.AppScenes, string> > appScenesNames = new List< KeyValuePair <ApplicationLauncher.AppScenes, string> >  () {
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.SPACECENTER, "KSC" ),
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> ((ApplicationLauncher.AppScenes.SPH | ApplicationLauncher.AppScenes.VAB), "SPH/VAB" ),
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.FLIGHT,  "FLT" ),
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.MAPVIEW, "MAP" ),
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> (ApplicationLauncher.AppScenes.TRACKSTATION, "TRS" ),
+    //  new KeyValuePair<ApplicationLauncher.AppScenes, string> ( (ApplicationLauncher.AppScenes)63, "ALL" )
     };
 
     static internal AdjustableModPanel Instance { get; private set; } = null;
@@ -748,7 +765,7 @@ namespace AdjustableModPanel {
         }
       }
       tempDescriptors = null;
-    }
+    } 
 
     void FillModIfNeeded (ModDescriptor to, ModDescriptor from) {
       if (to.modIcon != null)

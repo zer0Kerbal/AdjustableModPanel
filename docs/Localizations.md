@@ -22,9 +22,10 @@ updated: 08 Apr 2022 -->
 
 has been translated into the following languages:
 
+* ![English][EN] English <us-en.cfg>
+
 __These localizations for KSP and its DLC's are available through Steam:__
 
-* ![English][EN] English <us-en.cfg>
 * ![Deutsch][DE] German (Deutsch)  <de.cfg>  
 * ![Español][ES] Spanish (Español) <es-es.cfg>  
 * ![Français][FR] French (Français) <fr-fr.cfg>  
