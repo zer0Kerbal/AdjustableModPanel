@@ -1,22 +1,22 @@
 ---
 permalink: /Attributions.html
 title: Attributions
-description: I am so humbled by this award, wait wrong speach
+description: The Opening Credits, and the closing credits, plus the first of two (or is three) end credit scenes
 # layout: bare
-tags: attributions,thank,page,kerbal,ksp,zer0Kerbal,zedK
+tags: attributions,thank-you,directions,page,kerbal,ksp,zer0Kerbal,zedK
 ---
 
 <!--
-Attributions.md v1.0.3.0
+Attributions.md v1.0.5.0
 Adjustable Mod Panel (KAMP)
 created: 01 Feb 2022
-updated: 01 Feb 2022
+updated: 27 Mar 2022
 -->
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
-<i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
+<i class="fa fa-gear fa-spin fa-2x" style="color: #BADA55"></i>
 # Adjustable Mod Panel (KAMP)
-[Home](https://zer0kerbal.github.io/AdjustableModPanel)
+[Home](./index.md)
 
 # Attribution
 
