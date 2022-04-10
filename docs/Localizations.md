@@ -4,25 +4,25 @@ title: Localizations
 ---
 
 <!-- Localizations.md v1.1.1.0
-PreciseManeuver! (KPM)
+AdjustableModPanel (KAMP)
 created: 01 Feb 2022
 updated: 06 Mar 2022 -->
 
-[Home](https://zer0kerbal.github.io/PreciseManeuver)
+[Home](https://zer0kerbal.github.io/AdjustableModPanel)
 
 <script src="https://kit.fontawesome.com/0ea5493613.js" crossorigin="anonymous"></script>
 <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i>
 
-# PreciseManeuver! (KPM)
+# AdjustableModPanel (KAMP)
 
 has been translated into the following languages:
 
-* [x] - ![American English][EN] American English <us-en.cfg>  
-* [x] - ![Deutsch][DE] German (Deutsch)  <de.cfg>  
-* [x] - ![Español][ES] Spanish (Español) <es-es.cfg>  
-* [x] - ![日本語][JA] Japanese(日本語) <ja.cfg>  
-* [x] - ![Русский][RU] Russian (Русский) <ru.cfg>  
-* [x] - ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
+* ![English][EN] American English <us-en.cfg>  
+* ![Deutsch][DE] German (Deutsch)  <de.cfg>  
+* ![Español][ES] Spanish (Español) <es-es.cfg>  
+* ![日本語][JA] Japanese(日本語) <ja.cfg>  
+* ![Русский][RU] Russian (Русский) <ru.cfg>  
+* ![简体中文][CN] Simplified Chinese (简体中文) <zh-cn.cfg>  
 
 __These localizations for KSP and its DLC's are available through Steam:__
 
