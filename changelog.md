@@ -12,7 +12,7 @@ KSP 1.8
 =======
 # Changelog  
   
-| modName    | AdjustableModPanel (KAMP)                                        |
+| modName    | Adjustable Mod Panel (KAMP)                                      |
 | ---------- | ---------------------------------------------------------------- |
 | license    | BSD-2-Clause                                                     |
 | author     | radistmorse and zer0Kerbal                                       |
