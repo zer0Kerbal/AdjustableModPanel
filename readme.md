@@ -50,8 +50,8 @@ That's it!
 
 ### Localization
 
->* [ ] ![English][EN] English - in progress
->* [ ] ***your translation here***
+>* ![English][EN] English - in progress
+>* ***your translation here***
 >
 > HELP WANTED - See the [README in the Localization folder][MOD:local] for instructions for adding or improving translations. [GitHub][GitHub:url] push is the best way to contribute. *Additions and corrections welcome!*
 
