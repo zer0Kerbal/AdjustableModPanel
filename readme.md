@@ -1,9 +1,9 @@
-<!-- readme.md v1.6.5.9
+<!-- readme.md v1.6.6.2
 Adjustable Mod Panel (KAMP)
 created: 01 Oct 2019
-updated: 05 Mar 2022 -->
+updated: 04 Apr 2022 -->
 
-<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+<!--this file: CC BY-ND 4.0 unported by zer0Kerbal-->
 
 [![AdjustableModPanel][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
 [![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
@@ -15,23 +15,23 @@ updated: 05 Mar 2022 -->
 
 # Adjustable Mod Panel (KAMP)
 
-Pick which mod buttons to show or hide on the stock toolbar.
+Pick which add-on buttons to show or hide on the stock toolbar.
 
-This plugin for Kerbal Space Program (KSP) allows you to pick which buttons on the stock toolbar you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the mods themselves, and should work with whichever mods it encounters.
-
-
+This plugin allows you to pick which buttons on the stock toolbar you want to see. You can show/hide mod stock toolbar buttons on different screens separately. It requires no additional support from the add-ons themselves, and should work with whichever add-ons it encounters. For Kerbal Space Program (KSP).
 
 
-## By [`zer0Kerbal`][LINK:zer0Kerbal] and originally by [`Morse`][LINK:morse]
 
-*Adopted with explicit permission.*
+
+## By [`zer0Kerbal`][zer0Kerbal] and originally by [`Morse`][morse]
+
+Adopted with explicit permission and brought to you by *KerbSimpleCo*
 
 <img src="https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/img/HERO-01.png" alt="Adjustable Mod Panel" width="75%" height="75%">
 
 
 
 
-### Preamble by [Morse][LINK:morse]
+### Preamble by [Morse][morse]
 
 This mod allows you to pick which buttons on the mod panel you want to see. You can disable mods on different screens(game scenes) separately.
 
@@ -42,13 +42,13 @@ That being said, I should issue an additional warning:
 
 Using this mod is easy:
 
-Install the mode
+Install the mod
 Choose which mod buttons in which screens you want to see (KSC, Editors, Flight, Map View, and Tracking Station)
 That's it!
 
 ---
 
-### Localization - *work in progress*
+### Localization
 
 >* [ ] ![English][EN] English - in progress
 >* [ ] ***your translation here***
@@ -57,7 +57,7 @@ That's it!
 
 ---
 
-### How to support this and other great mods by [`zer0Kerbal`][LINK:zer0Kerbal]  
+### How to support this and other great mods by [`zer0Kerbal`][zer0Kerbal]  
 
 [![Support][PAYPAL:img]][PAYPAL:url] [![Github Sponsor][GSPONS:img]][GSPONS:url] [![Patreon][PATREON:img]][PATREON:url] [![Buy zer0Kerbal a snack][BMCC:img]][BMCC:url]
 
@@ -75,17 +75,17 @@ That's it!
 ### Installation Directions
 
 ***Use***
-  CurseForge/OverWolf App (currently does not install dependencies) [^3]  
+  CurseForge/OverWolf App (currently does not install dependencies) [^1]  
 
   <a href="https://download.curseforge.com/">
     <img src="https://www.overwolf.com/brand-guidelines/img/logo2.svg" alt="CurseForge/OverWolf App" width="15%" height="15%">
 </a>
 
-or [![CKAN][CKAN:img]][CKAN:url] [^3]  
+or [![CKAN][CKAN:img]][CKAN:url] [^1]  
 
 ### Dependencies
 
-* [Kerbal Space Program][KSP:url] [![Kerbal Space][KSP:shd]][KSP:url] [^1]
+* [Kerbal Space Program][KSP:url] [![Kerbal Space][KSP:shd]][KSP:url] [^2][^3]
 
 ---
 
@@ -95,12 +95,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
   <p><img src = "https://i.postimg.cc/vHP6zmrw/image.png" alt="How to get support"></p></a>Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date</div>
 
 ### Credits and Special Thanks
-
-* [Morse][LINK:morse] for creating this mod
+  
+* [Morse][morse] for creating this mod
+* see [Attribution.md][MOD:attr] for comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
 
-#### Current (1) - [`zer0Kerbal`][LINK:zer0Kerbal]
+#### Current (1) - [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
 > License: [![License][LIC:shd]][LIC:url]
@@ -110,16 +111,17 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 > ***All bundled mods are distributed under their own licenses***  
 > ***All art assets (textures, models, animations, sounds) are distributed under their own licenses***
 
-#### Original (0) - Author: [`Morse`][LINK:morse]
+#### Original (0) - Author: [`Morse`][morse]
 
-> Forum: [Thread][MOD:org:thread]  - Download: [GitHub][MOD:org:download] - Source: [GitHub][MOD:org:source]
-> License: [![License][LIC:org:shd]][LIC:org:url]
+> Forum: [Thread][MOD:0:thread]  - Download: [GitHub][MOD:0:download] - Source: [GitHub][MOD:0:source]  
+> License: [![License][LIC:0:shd]][LIC:0:url]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-* "AdjustableModPanel Forum Thread"
+[MOD:attr]: https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/Attribution.md "Attribution"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/AdjustableModPanel/discussions "Discussions"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-* "AdjustableModPanel Forum Thread"
 [MOD:issue]: https://github.com/zer0Kerbal/AdjustableModPanel/wiki/Known-Issues "GitHub Issues"
 [MOD:known]: https://github.com/zer0Kerbal/AdjustableModPanel/wiki/Known-Issues "Known Issues"
 [MOD:licns]: https://github.com/zer0Kerbal/AdjustableModPanel/blob/master/LICENSE "Github License"
@@ -135,13 +137,13 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [MOD:pages:shd]: https://github.com/zer0Kerbal/AdjustableModPanel/actions/workflows/pages/pages-build-deployment/badge.svg "GitHub IO"
 
 <!--- mod provenance -->
-[MOD:org:source]: https://github.com/radistmorse/KSPAdjustableModPanel "GitHub"
-[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/169087-* "KSP Forum"  
-[MOD:org:download]: https://github.com/radistmorse/KSPAdjustableModPanel/releases/latest/ "GitHub"  
+[MOD:0:source]: https://github.com/radistmorse/KSPAdjustableModPanel "GitHub"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/169087-* "KSP Forum"  
+[MOD:0:download]: https://github.com/radistmorse/KSPAdjustableModPanel/releases/latest/ "GitHub"  
 
 <!--- license provenance-->
-[LIC:org:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
-[LIC:org:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json "SimpleBSD-2-Clause"
+[LIC:0:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
+[LIC:0:shd]: https://img.shields.io/badge/License-BSD--2--Clause-AB2B28?labelColor=white&style=plastic&logoColor=AB2B28&logo=FreeBSD "SimpleBSD-2-Clause"
 
 [LIC:url]: https://choosealicense.com/licenses/bsd-2-clause/ "SimpleBSD-2-Clause"
 [LIC:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/license.json "SimpleBSD-2-Clause"
@@ -153,7 +155,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 <!--- CKAN -->
 [CKAN:img]: https://i.postimg.cc/x8XSVg4R/sj507JC.png "CKAN"
 [CKAN:url]: http://forum.kerbalspaceprogram.com/index.php?/topic/197082-* "CKAN"
-[CKAN:shd]: https://img.shields.io/badge/CKAN-AdjustableModPanel-white.svg?labelColor=E32811&style=plastic "CKAN"
+[CKAN:shd]: https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/json/ckan.json "CKAN"
 
 <!--- release links -->
 [CURSFG:url]: https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel "Curseforge"
@@ -195,12 +197,18 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 [RU]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Russian-flag-sm.png "Русский"
 [SW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Swedish-flag-sm.png "Svenska"
 [TW]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Taiwanese-flag-sm.png "国语"
-[HA]: https://raw.githubusercontent.com/zer0Kerbal/zer0Kerbal/zed'K/Localization/img/Hawaii-flag-sm.png "ʻŌlelo Pākē"
 
-[LINK:zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
-[LINK:morse]: https://forum.kerbalspaceprogram.com/index.php?/profile/154930-morse/ "Morse"
+[zer0Kerbal]: https://forum.kerbalspaceprogram.com/index.php?/profile/190933-zer0kerbal/ "zer0Kerbal"
+[morse]: https://forum.kerbalspaceprogram.com/index.php?/profile/154930-morse/ "Morse"
 
 <!-- footnotes -->
-[^1]: ***may*** work on other versions (YMMV)
-[^2]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
-[^3]: this isn't a mod. ;P
+[^1]: this isn't a mod. ;P
+[^2]: ***may*** work on other versions (YMMV)
+[^3]: *Be Kind: Lithobrake, not jakebrake! Keep your Module Manager up to date!*
+
+---
+
+issues [here][MOD:issue] - projects [here](https://github.com/zer0Kerbal/AdjustableModPanel/projects/) — **[The Short List](https://github.com/users/zer0Kerbal/projects/27)**
+
+<div style="border:0.5px solid #FFFFFF; background-color: #FF; color: #FF0000; text-align:center"><a href = "https://twitter.com/zer0Kerbal"><img src = "https://cdn.icon-icons.com/icons2/836/PNG/32/Twitter_icon-icons.com_66803.png" alt="zer0Kerbal | Twitter" height="5%" width="5%"></a>
+<a href = "https://www.youtube.com/channel/UCp9c8IaK4Gjgfj3O9QxrbDw"> <img src = "https://cdn.icon-icons.com/icons2/836/PNG/512/Youtube_icon-icons.com_66802.png" alt="zer0Kerbal | YouTube" height="5%" width="5%"></a> <a href = "https://www.twitch.tv/zer0kerbal"> <img src = "https://cdn.icon-icons.com/icons2/2699/PNG/512/twitch_logo_icon_170383.png" alt="zer0Kerbal | Twitch" height="5%" width="5%"></a></div>
