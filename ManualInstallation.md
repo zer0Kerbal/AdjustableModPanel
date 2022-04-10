@@ -4,13 +4,13 @@ title: Manual Installation (no warranty coverage provided)
 ---
 
 <!-- ManualInstallation.md v1.1.0.0
-PreciseManeuver! (KPM)
+AdjustableModPanel (KAMP)
 created: 01 Oct 2019
 updated: 02 Mar 2022 -->
 
 <!-- based upon work by Lisias -->
 
-# PreciseManeuver! (KPM)
+# AdjustableModPanel (KAMP)
 
 Provides simple craft building capability in flight mode to stock parts for Kerbal Space Program.
 
@@ -25,9 +25,9 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/PreciseManeuver`
-* Extract the package's `PreciseManeuver/` folder into your KSP's as follows:
-  * `<PACKAGE>/PreciseManeuver` --> `<KSP_ROOT>/GameData/PreciseManeuver`
+  * Delete `<KSP_ROOT>/GameData/AdjustableModPanel`
+* Extract the package's `AdjustableModPanel/` folder into your KSP's as follows:
+  * `<PACKAGE>/AdjustableModPanel` --> `<KSP_ROOT>/GameData/AdjustableModPanel`
     * Overwrite any preexisting file.
 
 ### If Downloaded from SpaceDock / GitHub / other
@@ -35,9 +35,9 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 To install, place the GameData folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**, including any other fork:
-  * Delete `<KSP_ROOT>/GameData/PreciseManeuver`
-* Extract the package's `GameData/PreciseManeuver` folder into your KSP's as follows:
-  * `<PACKAGE>/GameData/PreciseManeuver` --> `<KSP_ROOT>/GameData`
+  * Delete `<KSP_ROOT>/GameData/AdjustableModPanel`
+* Extract the package's `GameData/AdjustableModPanel` folder into your KSP's as follows:
+  * `<PACKAGE>/GameData/AdjustableModPanel` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting file.
 
 ## The following file layout must be present after installation
@@ -45,19 +45,19 @@ To install, place the GameData folder inside your Kerbal Space Program folder:
 ```markdown
 <KSP_ROOT>
   [GameData]
-    [PreciseManeuver]
+    [AdjustableModPanel]
       [Localization]
         ...
       [Plugins]
-        PreciseManeuver.dll
-        PreciseManeuver.Unity.dll
-        precisemaneuverprefabs
+        AdjustableModPanel.dll
+        AdjustableModPanel.Unity.dll
+        AdjustableModPanelprefabs
         ...
       #.#.#.#.htm
       changelog.md
       BSD-2-Clause.txt
       readme.htm
-      PreciseManeuver.version
+      AdjustableModPanel.version
     ...
   KSP.log
   ...
