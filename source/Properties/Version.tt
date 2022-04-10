@@ -1,7 +1,7 @@
 ﻿<#
 /*
    * Version.tt
-   * 2.0.2.0
+   * 2.0.2.2
 
    This file is licensed under the Do What the F* You Want to Public License ( http://www.wtfpl.net )
    * by zer0Kerbal.
@@ -107,7 +107,7 @@ using System.Reflection;
 
 [assembly: AssemblyFileVersion("<#= major #>.<#= minor #>.<#= patch #>.<#= revisionNumber #>")]
 [assembly: AssemblyVersion("<#= major #>.<#= minor #>.<#= patch #>.<#= build #>")]
-[assembly: AssemblyInformationalVersion("v<#= major #>.<#= minor #>.<#= patch #>")]
+[assembly: AssemblyInformationalVersion("<#= major #>.<#= minor #>.<#= patch #>")]
 [assembly: KSPAssembly("<#= PROJECT_NAME #>", <#= major #>,<#= minor #>,<#= patch #>)]
 
 namespace <#= PROJECT_NAME #>
@@ -123,6 +123,7 @@ namespace <#= PROJECT_NAME #>
         public const string Text = Number + "-zed'K BETA DEBUG";
 #else
         public const string Text = Number + "-zed'K";
+		public const string SText = Number;
 #endif
 	}
 }
