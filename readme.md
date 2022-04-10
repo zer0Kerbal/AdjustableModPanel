@@ -1,6 +1,19 @@
-# Adjustable Mod Panel (KAMP)
+<!-- readme.md v1.6.5.9
+Adjustable Mod Panel (KAMP)
+created: 01 Oct 2019
+updated: 05 Mar 2022 -->
 
-Adjustable Mod Panel for Kerbal Space Program.
+<!--this file: CC BY-ND 3.0 unported by zer0Kerbal-->
+
+[![AdjustableModPanel][MOD:shd:latest]][MOD:forum] [![KSP version][KSP:shd]][KSP:url]  [![License][LIC:shd]][LIC:url]  
+[![Curseforge][CURSFG:shd]][CURSFG:url] [![CKAN][CKAN:shd]][CKAN:url] [![GitHub][GITHUB:shd]][GITHUB:url] [![SpaceDock][SPCDCK:shd]][SPCDCK:url]  
+![Code][CODE:shd] ![KSP-AVC][AVC:shd] ![Validate AVC .version files][AVCVLD:shd]
+
+[![GitHub Pages][MOD:pages:shd]][MOD:pages]
+
+
+
+# Adjustable Mod Panel (KAMP)
 
 Pick which mod buttons to show or hide on the stock toolbar.
 
@@ -103,7 +116,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 > License: [![License][LIC:org:shd]][LIC:org:url]
 
 <!-- mod links -->
-[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/169087-* "AdjustableModPanel Forum Thread"
+[MOD:forum]: https://forum.kerbalspaceprogram.com/index.php?/topic/207263-* "AdjustableModPanel Forum Thread"
 [MOD:chlog]: https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/changelog.md  "Changelog"
 [MOD:contr]: https://github.com/zer0Kerbal/.github/blob/master/.github/CONTRIBUTING.md "Contributing"
 [MOD:discu]: https://github.com/zer0Kerbal/AdjustableModPanel/discussions "Discussions"
@@ -123,7 +136,7 @@ or [![CKAN][CKAN:img]][CKAN:url] [^3]
 
 <!--- mod provenance -->
 [MOD:org:source]: https://github.com/radistmorse/KSPAdjustableModPanel "GitHub"
-[MOD:org:thread]:https://forum.kerbalspaceprogram.com/index.php?/topic/207263-* "KSP Forum"  
+[MOD:org:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/169087-* "KSP Forum"  
 [MOD:org:download]: https://github.com/radistmorse/KSPAdjustableModPanel/releases/latest/ "GitHub"  
 
 <!--- license provenance-->
