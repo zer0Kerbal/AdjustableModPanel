@@ -26,12 +26,12 @@ namespace AdjustableModPanel
         private const string FOLDERNAME = "AdjustableModPanel";
         private const string EXPECTEDPATH = FOLDERNAME + "/Plugins";
 
-        //# KAMP-000 = Adjustable Mod Panel
-        //# KAMP-001 = Adjustable Mod Panel v<<1>>
+        // # KAMP-000 = Adjustable Mod Panel
+        // # KAMP-001 = Adjustable Mod Panel v<<1>>
 
         //        // ************* InstallChecker *************		
-        //# KAMP-IC-00 = Install Checker
-        //# KAMP-IC-01 = Incorrect <<1>> v<<2>> installation.\n<<1>> has been installed incorrectly and will not function properly. All files should be located in KSP\GameData\<<3>>. Do not move any files from inside that folder.\n\nIncorrect path(s):\n<<4>>
+        // # KAMP-IC-00 = Install Checker
+        // # KAMP-IC-01 = Incorrect <<1>> v<<2>> installation.\n<<1>> has been installed incorrectly and will not function properly. All files should be located in KSP\GameData\<<3>>. Do not move any files from inside that folder.\n\nIncorrect path(s):\n<<4>>
         // #autoLOC_211274 = Ok
         // #autoLOC_174814 = OK
         // #autoLOC_190905 = Okay
