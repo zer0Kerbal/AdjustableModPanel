@@ -63,6 +63,11 @@ That's it!
 
 ---
 
+### Cabin Notes
+
+* Janitor's Closet can be installed alongside Adjustable Mod Panel (AMP) - only use ONE or the other to manage buttons.
+* TUFX seems particularily resistant to KAMPing. Reports have shown it doesn't like it's button hidden. 
+
 ### See More
 
 * Discussions and news on this mod: See [Discussions][MOD:discu] or [KSP Forums][MOD:forum]
