@@ -1,14 +1,14 @@
 # Changelog  
   
-| modName    | Adjustable Mod Panel (KAMP)                                      |
-| ---------- | ---------------------------------------------------------------- |
-| license    | BSD-2-Clause                                                     |
-| author     | radistmorse and zer0Kerbal                                       |
-| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*) |
-| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AdjustableModPanel)    |
-| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)  |
-| spacedock  | (https://spacedock.info/mod/2997)                                |
-| ckan       | AdjustableModPanel                                               |
+| modName    | Adjustable Mod Panel (KAMP)                                       |
+| ---------- | ----------------------------------------------------------------- |
+| license    | BSD-2-Clause                                                      |
+| author     | radistmorse and zer0Kerbal                                        |
+| forum      | (https://forum.kerbalspaceprogram.com/index.php?/topic/207263-*/) |
+| github     | (https://github.com/zer0Kerbal/zer0Kerbal/AdjustableModPanel)     |
+| curseforge | (https://www.curseforge.com/kerbal/ksp-mods/AdjustableModPanel)   |
+| spacedock  | (https://spacedock.info/mod/2997)                                 |
+| ckan       | AdjustableModPanel                                                |
 
 ## Version 1.5.99.0-adoption -  `<Peekaboo>` edition
 
