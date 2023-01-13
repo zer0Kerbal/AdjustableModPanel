@@ -57,7 +57,7 @@ Adopted with explicit permission and brought to you by *KerbSimpleCo*
 
 ### YouTube showcase
 
-[![testing / demo](https://img.youtube.com/vi/IcTQ4YwxLGc/0.jpg)](https://youtu.be/IcTQ4YwxLGc)
+[![testing / demo](https://img.youtube.com/vi/HwfJ1EPT-H0/0.jpg)](https://youtu.be/HwfJ1EPT-H0)
 
 ### Cabin Notes
 
