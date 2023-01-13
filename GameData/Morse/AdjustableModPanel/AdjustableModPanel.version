@@ -1,5 +1,5 @@
 {
-	"NAME"		     : "Adjustable Mod Panel (KAMP)",
+	"NAME"		     : "Adjustable Mod Panel (KAMP) by Morse",
 	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/AdjustableModPanel.version",
 	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/AdjustableModPanel/releases/latest",
 	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/AdjustableModPanel/master/changelog.md",
@@ -14,23 +14,23 @@
 		"MAJOR" : 1,
 		"MINOR" : 5,
 		"PATCH" : 99,
-		"BUILD" : 0
+		"BUILD" : 1
 	},
 	"KSP_VERSION" :
 	{
 		"MAJOR" : 1,
 		"MINOR" : 12,
-		"PATCH" : 3
+		"PATCH" : 4
 	},
 	"KSP_VERSION_MIN" :
 	{
 		"MAJOR" : 1,
-		"MINOR" : 7,
+		"MINOR" : 3,
 		"PATCH" : 1
 	},
 	"INSTALL_LOC" :
 	{
 		"NAME" :	  "AdjustableModPanel",
-		"DIRECTORY" : "AdjustableModPanel"
+		"DIRECTORY" : "Morse/AdjustableModPanel"
 	}
 }
