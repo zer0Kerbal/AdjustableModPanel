@@ -10,6 +10,33 @@
 | spacedock  | (https://spacedock.info/mod/2997)                                 |
 | ckan       | AdjustableModPanel                                                |
 
+## Version 1.5.99.1-prerelease - `<Thank you Morse>` edition
+
+* Released
+  * 12 Jan 2023
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.5.99.1
+
+* Compile for 1.12.4
+  * .NET 4.7.2
+  * C# 10.0
+  * Unity 2019.4.18f1 LTS
+* <AdjustableModPanel.dll> v1.5.99.17 --> 1.5.99.132
+
+* Log Spam
+  * move x into Awake to possibly alleviate log spam.
+  * thank you [Rodg88](https://github.com/Rodg88)
+  * closes #36 - [Bug 🐞]: UnityException on load
+
+### Status 1.5.99.1
+
+* Issues
+
+
+---
+
 ## Version 1.5.99.0-adoption -  `<Peekaboo>` edition
 
 * 12 Mar 2022  
