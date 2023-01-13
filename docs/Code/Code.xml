@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AdjustableModPanel</name>
+    </assembly>
+    <members>
+        <member name="T:AdjustableModPanel.AdjustableModPanel">
+            <summary>CLASS: AdjustableModPanel</summary>
+        </member>
+        <member name="M:AdjustableModPanel.AdjustableModPanel.IsButtonToolbarController(KSP.UI.Screens.ApplicationLauncherButton,System.String@,System.String@)">
+            <summary>Handle Button Toolbar Controller</summary>
+            <param name="button"></param>
+            <param name="name"></param>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:AdjustableModPanel.AdjustableModPanel.AppButtonDisable">
+            <summary>Disable App Button</summary>
+        </member>
+        <member name="M:AdjustableModPanel.AdjustableModPanel.AppButtonEnable">
+            <summary>Enable App Button</summary>
+        </member>
+    </members>
+</doc>
