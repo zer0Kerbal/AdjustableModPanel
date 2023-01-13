@@ -10,6 +10,32 @@
 | spacedock  | (https://spacedock.info/mod/2997)                                 |
 | ckan       | AdjustableModPanel                                                |
 
+<<<<<<< Updated upstream
+=======
+## Version 1.5.99.1-prerelease - `<Thank you Morse>` edition
+
+* Released
+  * 12 Jan 2023
+  * for Kerbal Space Program 1.12.4
+  * by [zer0Kerbal](https://github.com/zer0Kerbal)
+
+### Summary 1.5.99.1
+
+* Compile for 1.12.4
+  * .NET 4.7.2
+  * C# 7.0
+* <AdjustableModPanel.dll> v1.5.99.17 --> 1.5.99.22
+
+### Status 1.5.99.1
+
+* Issues
+  * closes #36 - Adjustable Mod Panel (AMP) 1.5.99.1-prerelease `<Thank you Morse>` edition
+  * closes #37 - 1.5.99.1 Additional Tasks
+  * updates #32 - [Bug 🐞]: TUFX
+
+---
+
+>>>>>>> Stashed changes
 ## Version 1.5.99.0-adoption -  `<Peekaboo>` edition
 
 * 12 Mar 2022  
