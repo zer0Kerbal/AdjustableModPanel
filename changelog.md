@@ -21,19 +21,15 @@
 
 * Compile for 1.12.4
   * .NET 4.7.2
-  * C# 10.0
-  * Unity 2019.4.18f1 LTS
-* <AdjustableModPanel.dll> v1.5.99.17 --> 1.5.99.132
-
-* Log Spam
-  * move x into Awake to possibly alleviate log spam.
-  * thank you [Rodg88](https://github.com/Rodg88)
-  * closes #36 - [Bug 🐞]: UnityException on load
+  * C# 7.0
+* <AdjustableModPanel.dll> v1.5.99.17 --> 1.5.99.22
 
 ### Status 1.5.99.1
 
 * Issues
-
+  * closes #36 - Adjustable Mod Panel (AMP) 1.5.99.1-prerelease `<Thank you Morse>` edition
+  * closes #37 - 1.5.99.1 Additional Tasks
+  * udpates #32 - [Bug 🐞]: TUFX
 
 ---
 
