@@ -10,8 +10,6 @@
 | spacedock  | (https://spacedock.info/mod/2997)                                 |
 | ckan       | AdjustableModPanel                                                |
 
-<<<<<<< Updated upstream
-=======
 ## Version 1.5.99.1-prerelease - `<Thank you Morse>` edition
 
 * Released
@@ -35,7 +33,6 @@
 
 ---
 
->>>>>>> Stashed changes
 ## Version 1.5.99.0-adoption -  `<Peekaboo>` edition
 
 * 12 Mar 2022  
