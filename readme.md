@@ -49,8 +49,6 @@ Adopted with explicit permission and brought to you by *KerbSimpleCo*
 ### See more
 
 >* [Maneuver Node wiki](https://wiki.kerbalspaceprogram.com/wiki/Maneuver_node)
->* [How It Works][MOD:works]
->* [Shortcut Keys][MOD:skeys]
 >* [GitHub Pages][MOD:pages]
 >* [Marketing Slicks][MOD:markt]
 >* [Discussions][MOD:discu] or [KSP Forums][MOD:forum] for discussions and news
