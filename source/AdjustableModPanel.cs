@@ -1,4 +1,4 @@
-﻿#region License
+#region License
 /*
 BSD 2-Clause License
 
@@ -601,7 +601,7 @@ namespace AdjustableModPanel
 			ApplicationLauncher.Instance.prefab_horizontalRightLeft.GetGameObject ().AddOrGetComponent<ModPanelComponent> ();
 			if (ApplicationLauncher.Ready && appButton == null) {
 				appButton = ApplicationLauncher.Instance.AddModApplication (OpenMainWindow, CloseMainWindow, null, null,
-					AppButtonEnable, AppButtonDisable, ApplicationLauncher.AppScenes.ALWAYS & (~ApplicationLauncher.AppScenes.MAINMENU), appButtonTexture);
+					null, AppButtonDisable, ApplicationLauncher.AppScenes.ALWAYS & (~ApplicationLauncher.AppScenes.MAINMENU), appButtonTexture);
 				// this mod should be always on in KSC
 				appButton.container.Data = ApplicationLauncher.AppScenes.SPACECENTER;
 			}
@@ -614,10 +614,6 @@ namespace AdjustableModPanel
 		/// <summary>Disable App Button</summary>
 		public void AppButtonDisable ()
 		{ appButton?.SetFalse (); }
-
-        /// <summary>Enable App Button</summary>
-        public void AppButtonEnable ()
-		{ appButton?.SetTrue(); } // not needed, really
 
         internal ApplicationLauncher.AppScenes GetModScenes (string module, string method, ApplicationLauncher.AppScenes currentScenes, uint hash)
 		{
